@@ -22,4 +22,4 @@ This project predicts whether a song would become a hit on Spotify based on its 
 
 The best accuracy is around 80%.
 
-For more details, check out the final report in `result` directory.
+For more details, check out the final report and presentation slides in `result` directory.
